@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stanislav
 - 👀 I’m interested in android development
-- 🌱 I’m currently learning dagger, rxjava, room, kotlin
+- 🌱 I’m currently learning tdd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/stanislav-yeroshin/
 
